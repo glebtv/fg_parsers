@@ -1,0 +1,5 @@
+development:
+  host: mg2.gleb.tv
+  database: parsers
+  autocreate_indexes: true
+  persist_in_safe_mode: true
